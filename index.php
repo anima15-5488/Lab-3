@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+
 <form action="insert.php" method="post">
     <!-- Existing fields -->
     <label for="name">Name:</label><br />
@@ -39,3 +43,6 @@
 
     <input type="submit" value="Submit">
 </form>
+
+</body>
+</html>
